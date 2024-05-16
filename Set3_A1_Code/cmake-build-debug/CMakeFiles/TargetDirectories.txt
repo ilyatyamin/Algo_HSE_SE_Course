@@ -1,0 +1,3 @@
+/Users/mrshrimp.it/CLionProjects/AaDS2_Set3/A1/cmake-build-debug/CMakeFiles/A1.dir
+/Users/mrshrimp.it/CLionProjects/AaDS2_Set3/A1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mrshrimp.it/CLionProjects/AaDS2_Set3/A1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
